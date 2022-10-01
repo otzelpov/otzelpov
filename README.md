@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @otzelpov
+- 👋 Hi, I’m @otzelpov, aspiring software engineer
 - 👀 visit me under https://otzelpov.xyz/
+- 💭 [Stackoverflow](https://stackoverflow.com/users/17551909/otzelpov)
